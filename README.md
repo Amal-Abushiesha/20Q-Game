@@ -22,7 +22,8 @@ Welcome to the 20 Questions Game! This game is a digital implementation of the c
 ### Server Setup
 1. Run the server application.
 2. Ensure the server has the necessary SSL certificates for secure communication.
-3. The server will wait for the client to connect.
+   hint: PEM pass phrase is 1234
+4. The server will wait for the client to connect.
 
 ### Client Setup
 1. Run the client application.
