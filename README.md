@@ -24,6 +24,7 @@ Welcome to the 20 Questions Game! This game is a digital implementation of the c
 2. Ensure the server has the necessary SSL certificates for secure communication.
    hint: PEM pass phrase is 1234
 4. The server will wait for the client to connect.
+5. At the end enter the email password to receive an email with the feedback.
 
 ### Client Setup
 1. Run the client application.
@@ -52,3 +53,26 @@ After the game ends, the server sends an email to the client containing:
 For any questions or support, email me at amaalabushiesha@gmail.com.
 
 Thank you for playing the 20 Questions Game! Enjoy and have fun guessing!
+
+## Snaps
+#### 1. Choosing an object
+![screen 1](https://github.com/Amal-Abushiesha/20Q-Game/assets/81009248/822cd3d9-8d22-4175-bc5e-f7522d1a8f11)
+
+
+#### 2. Optional Step ( Pick a photo of your object)
+   ![screen 2](https://github.com/Amal-Abushiesha/20Q-Game/assets/81009248/9d501b26-db0b-4fa8-9bd3-fc5640059137)
+
+   
+#### 3. Start asking questions and making guesses, server will play accordingly and give verdicts
+   ![screen 3](https://github.com/Amal-Abushiesha/20Q-Game/assets/81009248/2f5123bc-9555-497e-b995-63d30beb1d1f)
+
+   
+#### 4. Winning the game!
+   ![screen 4](https://github.com/Amal-Abushiesha/20Q-Game/assets/81009248/a993cf71-2cc8-4187-8daa-b2a3c3f72c1f)
+
+   
+#### 5. Feedback
+   ![screen 5](https://github.com/Amal-Abushiesha/20Q-Game/assets/81009248/279642ef-5272-462d-8e64-c6a0a806ba1a)
+
+
+
