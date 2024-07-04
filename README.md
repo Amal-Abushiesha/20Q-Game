@@ -43,17 +43,6 @@ After the game ends, the server sends an email to the client containing:
 - **Libraries and Frameworks**: pyhin, Tkinter, SSL, FTP, IMAP
 - **Network Protocols**: TCP/IP for socket communication, SSL for secure data transmission
 
-## Installation
-1. **Clone the Repository**: `git clone <https://github.com/Amal-Abushiesha/20Q-Game.git>`
-2. **Install Dependencies**: `pip install -r requirements.txt`
-3. **Run Server**: `python server.py`
-4. **Run Client**: `python client.py`
-
-## Contact
-For any questions or support, email me at amaalabushiesha@gmail.com.
-
-Thank you for playing the 20 Questions Game! Enjoy and have fun guessing!
-
 ## Snaps
 #### 1. Choosing an object
 ![screen 1](https://github.com/Amal-Abushiesha/20Q-Game/assets/81009248/822cd3d9-8d22-4175-bc5e-f7522d1a8f11)
@@ -75,4 +64,13 @@ Thank you for playing the 20 Questions Game! Enjoy and have fun guessing!
    ![screen 5](https://github.com/Amal-Abushiesha/20Q-Game/assets/81009248/279642ef-5272-462d-8e64-c6a0a806ba1a)
 
 
+## Installation
+1. **Clone the Repository**: `git clone <https://github.com/Amal-Abushiesha/20Q-Game.git>`
+2. **Install Dependencies**: `pip install -r requirements.txt`
+3. **Run Server**: `python server.py`
+4. **Run Client**: `python client.py`
 
+## Contact
+For any questions or support, email me at amaalabushiesha@gmail.com.
+
+Thank you for playing the 20 Questions Game! Enjoy and have fun guessing!
