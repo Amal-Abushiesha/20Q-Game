@@ -4,7 +4,7 @@
 Welcome to the 20 Questions Game! This game is a digital implementation of the classic guessing game where one player thinks of an object, and the other player has 20 chances to guess what it is by asking yes/no questions.
 
 ## Features
-- **Pyhin Sockets**: Utilizes pyhin sockets for robust network communication.
+- **Pyhon Sockets**: Utilizes pyhon sockets for robust network communication.
 - **SSL and Server Certificates**: Ensures secure communication with SSL encryption and server certificates.
 - **Custom Tkinter GUI**: Features a custom graphical user interface built with Tkinter for a user-friendly experience.
 - **FTP, IMAP, and Email Integration**: Supports file transfer, email retrieval, and sending feedback emails to the client.
@@ -42,7 +42,7 @@ After the game ends, the server sends an email to the client containing:
 - **Network Protocols**: TCP/IP for socket communication, SSL for secure data transmission
 
 ## Installation
-1. **Clone the Repository**: `git clone <repository_url>`
+1. **Clone the Repository**: `git clone <https://github.com/Amal-Abushiesha/20Q-Game.git>`
 2. **Install Dependencies**: `pip install -r requirements.txt`
 3. **Run Server**: `python server.py`
 4. **Run Client**: `python client.py`
